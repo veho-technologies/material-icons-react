@@ -1,5 +1,7 @@
 # material-icons-react
 
+This is basically just [https://www.npmjs.com/package/material-icons-react](https://www.npmjs.com/package/material-icons-react), but without all the dependencies.
+
 ## Introduction
 
 This package provides a convinient react component for using [Google's Material Icons](https://material.io/icons/) in your react application.
@@ -14,7 +16,7 @@ This package provides a convinient react component for using [Google's Material 
 Import module using the following statement.
 
 ```
-import MaterialIcon, {colorPallet} from 'material-icons-react';
+import MaterialIcon, {colorPallet} from '@veho-tech/material-icons-react';
 ```
 
 1. Rendering an icon is straightforward.
